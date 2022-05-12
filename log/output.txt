@@ -1,0 +1,159 @@
+********** SearchResult **********
+
+---------- Search Result ID: F4S1DS ---------
+
+---------- Train Name: Eurostar ---------
+
+  Start Station: London St Pancras International
+
+  Finish Station: Paris Nord
+
+  Departure Time: 11/07/2015 09:23AM +0100
+
+  Arrival Time: 11/07/2015 12:41PM +0200
+
+  Duration: 02 hours 18 minutes
+
+  Fare: Standard Class/GBP 79.0
+
+  Fare: Standard Premier/GBP 159.0
+
+---------- Train Name: TGV 2N2 ---------
+
+  Start Station: Paris Lyon
+
+  Finish Station: Barcelona Sants
+
+  Departure Time: 11/07/2015 01:56PM +0200
+
+  Arrival Time: 11/07/2015 08:17PM +0200
+
+  Duration: 06 hours 21 minutes
+
+  Fare: Standard Class/GBP 50.0
+
+  Fare: First Class/GBP 75.0
+
+---------- Journey Summary ---------
+
+  Train changes required: 1
+
+  Time the passenger has for each train change:
+
+  	Change 1: Eurostar - TGV 2N2: 01 hours 15 minutes
+
+  Total Journey Duration: 09 hours 54 minutes
+
+---------- Search Result ID: L2FSF4 ---------
+
+---------- Train Name: Eurostar ---------
+
+  Start Station: London St Pancras International
+
+  Finish Station: Paris Nord
+
+  Departure Time: 11/07/2015 11:31AM +0100
+
+  Arrival Time: 11/07/2015 02:48PM +0200
+
+  Duration: 02 hours 17 minutes
+
+  Fare: Standard Class/GBP 69.0
+
+  Fare: Standard Premier/GBP 179.0
+
+---------- Train Name: TGV 2N2 ---------
+
+  Start Station: Paris Lyon
+
+  Finish Station: Barcelona Sants
+
+  Departure Time: 11/07/2015 03:32PM +0200
+
+  Arrival Time: 11/07/2015 10:16PM +0200
+
+  Duration: 06 hours 44 minutes
+
+  Fare: Standard Class/GBP 25.5
+
+  Fare: First Class/GBP 45.5
+
+---------- Journey Summary ---------
+
+  Train changes required: 1
+
+  Time the passenger has for each train change:
+
+  	Change 1: Eurostar - TGV 2N2: 00 hours 44 minutes
+
+  Total Journey Duration: 09 hours 45 minutes
+
+---------- Search Result ID: D42GVV ---------
+
+---------- Train Name: Eurostar ---------
+
+  Start Station: London St Pancras International
+
+  Finish Station: Paris Nord
+
+  Departure Time: 11/07/2015 03:48PM +0100
+
+  Arrival Time: 11/07/2015 07:03PM +0200
+
+  Duration: 02 hours 15 minutes
+
+  Fare: Standard Class/GBP 39.0
+
+  Fare: Standard Premier/GBP 59.0
+
+---------- Train Name: Intercités de Nuit ---------
+
+  Start Station: Paris Lyon
+
+  Finish Station: Perpignan
+
+  Departure Time: 11/07/2015 10:25PM +0200
+
+  Arrival Time: 12/07/2015 06:48AM +0200
+
+  Duration: 08 hours 23 minutes
+
+  Fare: Standard Class/GBP 15.2
+
+  Fare: First Class/GBP 27.0
+
+---------- Train Name: AVE Class 100 ---------
+
+  Start Station: Perpignan
+
+  Finish Station: Barcelona Sants
+
+  Departure Time: 12/07/2015 09:57AM +0200
+
+  Arrival Time: 12/07/2015 11:19AM +0200
+
+  Duration: 01 hours 22 minutes
+
+  Fare: Standard Class/GBP 20.0
+
+  Fare: First Class/GBP 30.0
+
+---------- Journey Summary ---------
+
+  Train changes required: 2
+
+  Time the passenger has for each train change:
+
+  	Change 1: Eurostar - Intercités de Nuit: 03 hours 22 minutes
+
+  	Change 2: Intercités de Nuit - AVE Class 100: 03 hours 09 minutes
+
+  Total Journey Duration: 18 hours 31 minutes
+
+---------- Result Summary ---------
+
+  Cheapest Search Result: D42GVV - GBP 74.2
+
+  Quickest Search Result: L2FSF4 - 09 hours 45 minutes
+
+*************************************

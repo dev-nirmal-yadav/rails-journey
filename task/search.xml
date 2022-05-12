@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchResults>
+  <SearchResult>
+    <ID>F4S1DS</ID>
+    <Connections>
+      <Connection>
+        <Start>London St Pancras International</Start>
+        <Finish>Paris Nord</Finish>
+        <DepartureTime>2015-07-11T09:23:00+01:00</DepartureTime>
+        <ArrivalTime>2015-07-11T12:41:00+02:00</ArrivalTime>
+        <TrainName>Eurostar</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>79.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>Standard Premier</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>159.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+      <Connection>
+        <Start>Paris Lyon</Start>
+        <Finish>Barcelona Sants</Finish>
+        <DepartureTime>2015-07-11T13:56:00+02:00</DepartureTime>
+        <ArrivalTime>2015-07-11T20:17:00+02:00</ArrivalTime>
+        <TrainName>TGV 2N2</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>50.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>First Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>75.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+    </Connections>
+  </SearchResult>
+  <SearchResult>
+    <ID>L2FSF4</ID>
+    <Connections>
+      <Connection>
+        <Start>London St Pancras International</Start>
+        <Finish>Paris Nord</Finish>
+        <DepartureTime>2015-07-11T11:31:00+01:00</DepartureTime>
+        <ArrivalTime>2015-07-11T14:48:00+02:00</ArrivalTime>
+        <TrainName>Eurostar</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>69.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>Standard Premier</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>179.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+      <Connection>
+        <Start>Paris Lyon</Start>
+        <Finish>Barcelona Sants</Finish>
+        <DepartureTime>2015-07-11T15:32:00+02:00</DepartureTime>
+        <ArrivalTime>2015-07-11T22:16:00+02:00</ArrivalTime>
+        <TrainName>TGV 2N2</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>25.50</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>First Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>45.50</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+    </Connections>
+  </SearchResult>
+  <SearchResult>
+    <ID>D42GVV</ID>
+    <Connections>
+      <Connection>
+        <Start>London St Pancras International</Start>
+        <Finish>Paris Nord</Finish>
+        <DepartureTime>2015-07-11T15:48:00+01:00</DepartureTime>
+        <ArrivalTime>2015-07-11T19:03:00+02:00</ArrivalTime>
+        <TrainName>Eurostar</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>39.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>Standard Premier</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>59.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+      <Connection>
+        <Start>Paris Lyon</Start>
+        <Finish>Perpignan</Finish>
+        <DepartureTime>2015-07-11T22:25:00+02:00</DepartureTime>
+        <ArrivalTime>2015-07-12T06:48:00+02:00</ArrivalTime>
+        <TrainName>Intercités de Nuit</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>15.20</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>First Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>27.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+      <Connection>
+        <Start>Perpignan</Start>
+        <Finish>Barcelona Sants</Finish>
+        <DepartureTime>2015-07-12T09:57:00+02:00</DepartureTime>
+        <ArrivalTime>2015-07-12T11:19:00+02:00</ArrivalTime>
+        <TrainName>AVE Class 100</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>20.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>First Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>30.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+    </Connections>
+  </SearchResult>
+</SearchResults>

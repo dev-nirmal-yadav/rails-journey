@@ -1,0 +1,7 @@
+def system!(*args)
+  system(*args) || abort("\n== Command #{args} failed ==")
+end
+
+puts '== Installing dependencies =='
+system! 'gem install bundler --conservative'
+system('bundle install') || system!('bundle update')
